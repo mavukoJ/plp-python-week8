@@ -1,0 +1,37 @@
+WEEK 8 FINAL PROJECT: PERSONAL MINI-TOOLKIT
+
+1. My Project
+
+I am creating a personal mini-toolkit with three useful tools. The program will allow the user to choose a tool from a menu and return to the menu after using it.
+
+2. My Three Tools
+
+Tool 1: Simple Calculator
+This tool asks the user for two numbers and an operation, then calculates the answer.
+
+Concepts: Variables, input, arithmetic, if/elif/else, and f-strings.
+
+Tool 2: To-Do List
+This tool allows the user to add tasks, view tasks, and remove tasks from a list.
+
+Concepts: Lists, loops, input, conditionals, and f-strings.
+
+Tool 3: Even-or-Odd Checker
+This tool asks the user for a number and checks whether it is even or odd.
+
+Concepts: Variables, input, the modulo operator (%), conditionals, and f-strings.
+
+3. My Menu Text
+
+Welcome to My Personal Mini-Toolkit!
+
+1. Simple Calculator
+2. To-Do List
+3. Even-or-Odd Checker
+4. Quit
+
+Please choose an option (1-4):
+
+4. How My Program Will Work
+
+The program will display the menu repeatedly until the user chooses Quit. It will use if, elif, and else to select the correct tool and handle invalid choices politely.
